@@ -3,7 +3,7 @@ A software developer's portfolio
 # author
 Mungai Mbugua
 # live demo
-
+https://munga114.github.io/munga114-mungai-portfolio/
 # setup 
 * clone this repository
 * add to local repo using the command git clone "repo link"
