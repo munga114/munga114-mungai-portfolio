@@ -1,0 +1,66 @@
+body{
+    background-color: #65C18C;
+    font-size: x-large;
+}
+footer{
+    background-color: #789395;
+    text-align: center;
+    margin-bottom: 0vh;
+}
+#contacts{
+    background-color: #789395;
+    list-style: none;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    width: 100vw;
+    margin-top: 5vh;
+}
+#contacts h2{
+    margin-left: 7%;
+}
+#other{
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    margin-left: 4%;
+    text-align: center;
+}
+#other p{
+    margin-top: 4vh;
+}
+#projects{
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+}
+#projects button{
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+}
+#projects p{
+     height: 15vh;
+}
+#work{
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+}
+.card-text{
+    font-size: x-large;
+}
+.jumbotron img{
+    height: 30vh;
+    float: right;
+    margin-top: -20vh;
+}
+.jumbotron{
+    height: 70vh;
+}
+#jumbotron{
+    background-color: #141E27;
+}
+.jumbotron h1{
+margin-top: 10vh;
+margin-bottom: 5vh;
+}
+#school{
+    font-size: larger;
+}
